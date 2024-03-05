@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/ethereum/ethereumtool/account"
-	"github.com/ethereum/ethereumtool/email"
+	"github.com/kouliang/ethereumtool/account"
+	"github.com/kouliang/ethereumtool/email"
 )
 
 func main() {

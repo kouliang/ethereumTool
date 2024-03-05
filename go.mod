@@ -1,4 +1,4 @@
-module github.com/ethereum/ethereumtool
+module github.com/kouliang/ethereumtool
 
 go 1.17
 

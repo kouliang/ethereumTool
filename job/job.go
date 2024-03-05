@@ -5,10 +5,10 @@ import (
 	"os"
 	"time"
 
-	"github.com/ethereum/ethereumtool/account"
-	"github.com/ethereum/ethereumtool/client"
-	"github.com/ethereum/ethereumtool/email"
-	"github.com/ethereum/ethereumtool/historylog"
+	"github.com/kouliang/ethereumtool/account"
+	"github.com/kouliang/ethereumtool/client"
+	"github.com/kouliang/ethereumtool/email"
+	"github.com/kouliang/ethereumtool/historylog"
 )
 
 var EmailNotAddress []string
